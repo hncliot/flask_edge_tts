@@ -1,0 +1,6 @@
+flask
+flask-cors
+cos-python-sdk-v5
+gunicorn
+gevent
+edge-tts
